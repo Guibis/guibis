@@ -4,7 +4,7 @@
 
 ### My name is Guilherme Pereira, I'm a computer engineering student, and I really enjoy programming, especially front-end development.
 
-[mailto:guilhermeplima5@gmai.com]<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/674240e0-341d-448f-9333-e62a191c22ba" />
+<img width="60" height="60" alt="image" src="[mailto:guilhermeplima5@gmai.com]" />
 
 <!--
 **Guibis/guibis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
