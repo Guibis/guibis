@@ -5,7 +5,7 @@
 <img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/61e8574e-18e4-4064-9b12-7c8a79cc0e28" />
 <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/4ac66923-55d5-4bd9-af1a-374eda564bf4" />
 
-[![Instagram](<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/53f5fba9-19f3-408b-87df-5a81c0bc161c" />)](https://www.instagram.com/guipelima/)
+[![Instagram]([<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/53f5fba9-19f3-408b-87df-5a81c0bc161c" />](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/500px-Instagram_icon.png))](https://www.instagram.com/guipelima/)
 
 <!--
 **Guibis/guibis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
