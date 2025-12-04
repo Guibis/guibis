@@ -2,8 +2,8 @@
 
 ### My name is Guilherme Pereira, I'm a computer engineering student, and I really enjoy programming, especially front-end development.
 
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/e411eb6a-5224-42e1-ad3c-65b610442e25" />
-[![Instagram](<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/be3c0489-fc96-4ffc-927c-388434db5e43" />)](https://www.instagram.com/guipelima/)
+<img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/61e8574e-18e4-4064-9b12-7c8a79cc0e28" />
+<img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/4ac66923-55d5-4bd9-af1a-374eda564bf4" />
 
 
 <!--
