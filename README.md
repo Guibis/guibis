@@ -1,6 +1,6 @@
-## Hello everybody! I'm Guilherme
+## Hello everybody! I'm Guilherme 👋🏼
 
-### I'm a computer engineering student, and I really enjoy programming, especially front-end development.
+### 👨‍💻 I'm a computer engineering student, and I really enjoy programming, especially front-end development.
 
 <img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/61e8574e-18e4-4064-9b12-7c8a79cc0e28" />
 <br>
