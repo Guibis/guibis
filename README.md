@@ -3,7 +3,7 @@
 - 📖Studying at [Fainor](https://www.fainor.com.br/).
 - 📖TI at [IFBA](https://portal.ifba.edu.br/brumado).
 
-## 🔎Contact
+## 🔎 Contact
 - [guilhermeplima5@gmail.com](./)
 - [@guipelima](https://www.instagram.com/guipelima/) on Instagram
 - [@guibis](./) on Discord
